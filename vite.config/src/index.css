@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  font-size: 120px;
+}
+
+.input {
+  width: 100%;
+  background-color: aqua;
+}
